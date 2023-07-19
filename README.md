@@ -1,12 +1,12 @@
-# Hi there!👋 I am Zehua⚽
+# Hi there!👋 I am Zehua😁
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imagist486&label=Profile%20views&color=0e75b6&style=flat" alt="imagist486" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imagist486&show_icons=true&locale=en" alt="imagist486" /></p>
 
-### 😁A little about me...
+### ⚽A little about me...
 
-🧑‍💻A NLP engineer in Shanghai, China🇨🇳. 
+🧑‍💻A NLP Engineer in Shanghai, China🇨🇳. 
 
 ✍️Currently working on LLM project.
 
