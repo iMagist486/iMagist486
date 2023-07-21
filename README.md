@@ -24,5 +24,7 @@
 
 <!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iMagist486&theme=flat&rank=-C" alt="imagist486" /></a> </p>
