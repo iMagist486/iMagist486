@@ -23,6 +23,10 @@
 **wzh486@outlook.com**
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#2](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2/issues/2#issuecomment-1639816762) in [iMagist486/ElasticSearch-Langchain-Chatglm2](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2)
+2. 🗣 Commented on [#2](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2/issues/2#issuecomment-1639793731) in [iMagist486/ElasticSearch-Langchain-Chatglm2](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2)
+3. 🗣 Commented on [#1](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2/issues/1#issuecomment-1639175729) in [iMagist486/ElasticSearch-Langchain-Chatglm2](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2)
+<!--END_SECTION:activity-->
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iMagist486&theme=flat&rank=-C" alt="imagist486" /></a> </p>
