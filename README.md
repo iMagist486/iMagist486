@@ -25,9 +25,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#78](https://github.com/zhongwencool/notes/pull/78) in [zhongwencool/notes](https://github.com/zhongwencool/notes)
-2. 🔒 Closed issue [#3](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2/issues/3) in [iMagist486/ElasticSearch-Langchain-Chatglm2](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2)
-3. 🗣 Commented on [#3](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2/issues/3#issuecomment-1647098439) in [iMagist486/ElasticSearch-Langchain-Chatglm2](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2)
+1. 🗣 Commented on [#4](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2/issues/4#issuecomment-1649035731) in [iMagist486/ElasticSearch-Langchain-Chatglm2](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2)
+2. 💪 Opened PR [#78](https://github.com/zhongwencool/notes/pull/78) in [zhongwencool/notes](https://github.com/zhongwencool/notes)
+3. 🔒 Closed issue [#3](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2/issues/3) in [iMagist486/ElasticSearch-Langchain-Chatglm2](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2)
 <!--END_SECTION:activity-->
 
 
