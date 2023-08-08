@@ -25,9 +25,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2/issues/6#issuecomment-1657438974) in [iMagist486/ElasticSearch-Langchain-Chatglm2](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2)
-2. 🔒 Closed issue [#7](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2/issues/7) in [iMagist486/ElasticSearch-Langchain-Chatglm2](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2)
-3. 🗣 Commented on [#7](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2/issues/7#issuecomment-1657432520) in [iMagist486/ElasticSearch-Langchain-Chatglm2](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2)
+1. 🗣 Commented on [#130](https://github.com/JetBrains/ideolog/issues/130#issuecomment-1669015068) in [JetBrains/ideolog](https://github.com/JetBrains/ideolog)
+2. 🗣 Commented on [#6](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2/issues/6#issuecomment-1657438974) in [iMagist486/ElasticSearch-Langchain-Chatglm2](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2)
+3. 🔒 Closed issue [#7](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2/issues/7) in [iMagist486/ElasticSearch-Langchain-Chatglm2](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2)
 <!--END_SECTION:activity-->
 
 
