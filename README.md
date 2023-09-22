@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imagist486&label=Profile%20views&color=0e75b6&style=flat" alt="imagist486" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imagist486&show_icons=true&locale=en" alt="imagist486" /></p>
-
+  
 ### ⚽A little about me...
 
 🧑‍💻A NLP Engineer in Shanghai, China🇨🇳. 
@@ -13,7 +13,7 @@
 🌱Interested in anything fun and new.
 
 🎓Master of Science in Data Analytics.
-
+  
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
@@ -21,7 +21,7 @@
 2. 🗣 Commented on [#8](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2/issues/8#issuecomment-1728658758) in [iMagist486/ElasticSearch-Langchain-Chatglm2](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2)
 3. 🔓 Reopened issue [#8](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2/issues/8) in [iMagist486/ElasticSearch-Langchain-Chatglm2](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2)
 <!--END_SECTION:activity-->
-
+   
 ### ⚙️Tech I use:
 
 <p align="center">
@@ -68,7 +68,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     </a>
 </p>
-
+  
 ### 📫 Reach me out:
 <p align="center">
     <a href="#">
@@ -96,12 +96,5 @@
     </a>  
 </p>
 
-
-
-
-
-
-
-
-
+  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iMagist486&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15" alt="imagist486" /></a> </p>
