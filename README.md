@@ -74,7 +74,7 @@
 
 ### 📫 Reach me out:
 <p align="center">
-    <a href="#">
+    <a href="mailto:wzh486@outlook.com">
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
     </a>
     <a href="#">
