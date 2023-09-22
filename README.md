@@ -77,15 +77,15 @@
     <a href="mailto:wzh486@outlook.com">
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
     </a>
-    <a href="#">
+    <a href="https://www.linkedin.com/in/imagist486/">
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
     </a>
-    <a href="#">
+    <a href="https://www.instagram.com/imagist486/">
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
     </a>  
 </p>
 <p align="center">
-    <a href="#">
+    <a href="https://steamcommunity.com/id/iMagist486">
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/steam.svg" alt="steam" style="vertical-align:top; margin:6px 4px">
     </a>
     <a href="#">
