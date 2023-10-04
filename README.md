@@ -100,4 +100,4 @@
 </p>
 <br>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iMagist486&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15" alt="imagist486" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iMagist486&theme=onedark&no-frame=true&column=5&margin-w=15&margin-h=15" alt="imagist486" /></a> </p>
