@@ -20,7 +20,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2/issues/11#issuecomment-1809436956) in [iMagist486/ElasticSearch-Langchain-Chatglm2](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2)
+1. ❗ Opened issue [#1](https://github.com/commiyou/fserver/issues/1) in [commiyou/fserver](https://github.com/commiyou/fserver)
 2. 🔒 Closed issue [#10](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2/issues/10) in [iMagist486/ElasticSearch-Langchain-Chatglm2](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2)
 3. 🗣 Commented on [#10](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2/issues/10#issuecomment-1765527406) in [iMagist486/ElasticSearch-Langchain-Chatglm2](https://github.com/iMagist486/ElasticSearch-Langchain-Chatglm2)
 <!--END_SECTION:activity-->
